@@ -1,1 +1,2 @@
 deze regel is toegevoegd op github
+conflict regel
